@@ -14,6 +14,3 @@ A 3D-printable quadruped/robotic arm project built in SolidWorks (`.SLDPRT`, `.S
 ## File Formats
 - SolidWorks 202x (`.SLDPRT`, `.SLDASM`)
 - 3D Printing (`.STL`, `.3mf`)
-
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
-Co-Authored-By: Claude Code <noreply@anthropic.com>
