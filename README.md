@@ -3,8 +3,7 @@
 **A custom, 3D-printable robot built around Feetech STS3215 smart serial bus servos.**
 
 <p align="center">
-  <img src="assets/images/rocky-build.jpg" alt="Rocky robot prototype with its builder" width="48%">
-  <img src="assets/images/rocky-prototype.jpg" alt="Rocky prototype on the workshop floor" width="48%">
+  <img src="assets/images/rocky-build.jpg" alt="Rocky robot prototype with its builder" width="70%">
 </p>
 
 Rocky is a work-in-progress robotics project. This repository contains the SolidWorks part and assembly files, along with mesh exports for 3D printing.
